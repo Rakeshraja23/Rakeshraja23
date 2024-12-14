@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm RAKESH KUMAR MAHANA</h1>
 <h3 align="center">A passionate Python fullstack developer from India</h3>
 
-<img align="right" alt="coding" width="400" ![image](https://github.com/user-attachments/assets/6bb574d3-f72a-4fc6-9a18-5396883a0f0a)
->
+<img align="right" alt="coding" width="400" (https://github.com/user-attachments/assets/6bb574d3-f72a-4fc6-9a18-5396883a0f0a)>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshraja23&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshraja23" /> </p>
 
