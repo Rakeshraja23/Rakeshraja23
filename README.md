@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshraja23&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshraja23" /> </p>
 
-- 🌱 I’m currently learning **Django Framework**
+- 🌱 I’m currently Working with **Django Framework**
 
 - 📫 How to reach me **rakesh15407@gmail.com**
 
