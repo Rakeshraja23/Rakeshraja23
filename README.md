@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RAKESH KUMAR MAHANA</h1>
-<h3 align="center">A passionate Python fullstack developer from India</h3>
+<h3 align="center">A passionate PYTHON FULLSTACK DEVELOPER from India</h3>
 
 <img align="right" alt="coding" width="400" ![image](https://github.com/user-attachments/assets/0ddb8163-7206-4189-b7be-0c4df5f802fc)>
 
